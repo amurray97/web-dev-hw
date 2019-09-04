@@ -1,0 +1,8 @@
+1. The web is a network of networks providing shortcuts to related information that gets rid of the internets original heirarchy of information.
+
+2. The internet is connected to servers with unique IP addresses that send and recieve information from personal computers using the help of a router. 
+
+3. A directory is a a folder for files that have been seperated into groups and keeps the groups of files organized. 
+
+4. VCS's are beneficial because they allow the user to take snapshots throughout a project which allows the user to keep track of their changes and progress and revert to any previous version of a project when needed. Using a VCS also allows users to share their work and to work with eachother on projects.
+
