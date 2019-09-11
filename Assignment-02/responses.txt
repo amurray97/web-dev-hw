@@ -1,0 +1,4 @@
+data travels through the internet in packets.
+ip addresses are assigned to any computer. so they can be identified. domain name services are to convert alphabetic references to a servers ip addresses
+cookies are messages your web services pass to your browser when you visit the internet.
+protocol, domain name, and the path.
